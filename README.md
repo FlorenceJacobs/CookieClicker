@@ -1,5 +1,8 @@
 # CookieClicker
 
+## Date
+27/10/2020 (After 2 months @BeCode)
+
 ## Collaborators
 
 - [Julien](https://github.com/Gabrielju)
