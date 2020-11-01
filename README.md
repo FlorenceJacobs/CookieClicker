@@ -25,4 +25,4 @@ At the end of this challenge we have improved our:
 - Remote work
 
 ## Result
-[**Combat Corona POWER**](https://deschuyteneerj.github.io/CookieClicker/)
+[**Combat Corona POWER**](https://florencejacobs.github.io/CookieClicker/)
